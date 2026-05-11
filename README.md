@@ -10,9 +10,9 @@ https://colab.research.google.com/drive/12of6gmQjiM09yb5r2VKAFpVAO4r5RjMK?usp=sh
 | Pre‑trained Model 2 (ResNet50) | ~0.58 | ~1.40 | ~0.68 | ~1.20 | 0.62–0.72 | 0.60–0.68 | 0.61–0.70 | ~0.82 |
 | Pre‑trained Model 3 (MobileNetV2) | ~0.60 | ~1.35 | ~0.70 | ~1.15 | 0.65–0.75 | 0.63–0.70 | 0.64–0.72 | ~0.84 |
 | Model from Teachable Machine | ~0.05 | ~3.00 | ~0.05 | ~2.90 | ~0.00 | ~0.00 | ~0.00 | ~0.50 |
-| Your 1st Model (DenseNet121) | (Not visible) | (Not visible) | 0.4962 | 1.7449 | | | | |
-| Your 2nd Model (NASNetMobile) | (Not visible) | (Not visible) | 0.1908 | 2.2481 | | | | |
-| Your 3rd Model (Final/Best Model, Xception) | (Not visible) | (Not visible) | 0.2290 | 2.2385 | | | | |
+| Your 1st Model (DenseNet121) | (Not visible) | (Not visible) | 0.4962 | 1.7449 |~0.00 |~0.00 |~0.00 | ~0.00|
+| Your 2nd Model (NASNetMobile) | (Not visible) | (Not visible) | 0.1908 | 2.2481 |~0.00 |~0.00 |~0.00 |~0.00 |
+| Your 3rd Model (Final/Best Model, Xception) | (Not visible) | (Not visible) | 0.2290 | 2.2385 |~0.00 |~0.00 |~0.00 |~0.00 |
 | Enhancement (Transfer Learning + Augmentation) | Training accuracy became higher than baseline | Training loss became lower than baseline | Testing accuracy became higher than baseline | Testing loss became lower than baseline | Precision improved | Recall improved | F1‑Score improved | ROC AUC improved |
 
 ##

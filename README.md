@@ -14,7 +14,8 @@ https://colab.research.google.com/drive/12of6gmQjiM09yb5r2VKAFpVAO4r5RjMK?usp=sh
 | Your 2nd Model (NASNetMobile) | (Not visible) | (Not visible) | 0.1908 | 2.2481 | | | | |
 | Your 3rd Model (Final/Best Model, Xception) | (Not visible) | (Not visible) | 0.2290 | 2.2385 | | | | |
 | Enhancement (Transfer Learning + Augmentation) | Training accuracy became higher than baseline | Training loss became lower than baseline | Testing accuracy became higher than baseline | Testing loss became lower than baseline | Precision improved | Recall improved | F1‑Score improved | ROC AUC improved |
---
+
+##
 PART 13: GitHub Submission
 
 Include
